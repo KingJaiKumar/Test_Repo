@@ -1,5 +1,5 @@
 # Clean up all the resources which cost money
-
+#TEST
 import boto3
 
 def lambda_handler(event, context):
